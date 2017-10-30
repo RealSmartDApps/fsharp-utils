@@ -1,5 +1,5 @@
 namespace RealSmartDApps.Utils
 
-module Async = 
+module AsyncUtils = 
 
     let y = 0
