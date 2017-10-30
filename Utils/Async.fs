@@ -1,4 +1,4 @@
-namespace RealSmartDApps.Utils.XUnit
+namespace RealSmartDApps.Utils
 
 module Async = 
 
